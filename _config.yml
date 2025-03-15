@@ -1,0 +1,6 @@
+title: My Jekyll Blog
+email: youremail@example.com
+description: >- A simple Jekyll blog on GitHub Pages.
+baseurl: ""
+url: "https://leonmeshailjacob.github.io"
+theme: minima
